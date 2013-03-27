@@ -2,16 +2,16 @@ auto: true
 markdown: rdiscount
 pygments: true
 
-title: In The Attic
+title: we are talking on the web
 
 url: http://www.in-the-attic.com
 
 permalink: /:year/:month/:day/:title/
 
 author:
-    name: Garry Welding
-    email: gkwelding@gmail.com
-    github: gkwelding
+    name: Kushal 
+    email: kushaldeveloper@gmail.com
+    github: 9034725985
     twitter: GarryWelding
     gravatar: http://www.gravatar.com/avatar/5b7d3122776b44cfb18ed7aa865804a1.png
 
